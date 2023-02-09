@@ -1,0 +1,8 @@
+03-Jan-2023 13:14:04.642 ERROR -> [java.sql/java.sql.DriverManager.getConnection(DriverManager.java:708), java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230), sa.timetracking.jdbc.dao.classes.CustomerDAO.getAll(CustomerDAO.java:23), sa.timetracking.jdbc.Menu.main(Menu.java:17)]No suitable driver found for jdbc:mysql://localhost:3306/timesheet
+03-Jan-2023 13:18:03.022 INFO -> Customer: GSD Software & Technology added in list.
+03-Jan-2023 13:18:03.076 INFO -> Customer: Porsche added in list.
+03-Jan-2023 13:18:03.077 INFO -> Customer: BMW Group added in list.
+03-Jan-2023 13:18:03.078 INFO -> Customer: NTT Data added in list.
+03-Jan-2023 13:18:03.079 INFO -> Customer: Orange added in list.
+08-Jan-2023 15:35:33.383 ERROR -> [java.sql/java.sql.DriverManager.getConnection(DriverManager.java:708), java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230), sa.timetracking.jdbc.dao.classes.TimeTrackingDAO.getAll(TimeTrackingDAO.java:22), sa.timetracking.jdbc.Menu.main(Menu.java:17)]No suitable driver found for jdbc:mysql://localhost:3306/timesheet
+08-Jan-2023 15:39:00.708 ERROR -> [java.sql/java.sql.DriverManager.getConnection(DriverManager.java:708), java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230), sa.timetracking.jdbc.dao.classes.TimeTrackingDAO.getAll(TimeTrackingDAO.java:22), sa.timetracking.jdbc.Menu.main(Menu.java:17)]No suitable driver found for jdbc:mysql://localhost:3306/timesheet
